@@ -9,5 +9,5 @@
  * @author Marcia Amavel
  */
 public class Teste {
-    private tring teste;
+    private String teste;
 }
