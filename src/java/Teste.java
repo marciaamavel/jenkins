@@ -12,6 +12,6 @@ public class Teste {
     private String teste;
     
     public void teste() {
-        assert(1 == 2);
+        assert(1 == 2);]adsfasfdf
     }
 }
